@@ -1,0 +1,23 @@
+{
+  "name": "tailwind_landingpage",
+  "version": "1.0.0",
+  "description": "Practically creating a landing page using Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javorskyp/tailwind_landingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javorskyp/tailwind_landingPage/issues"
+  },
+  "homepage": "https://github.com/javorskyp/tailwind_landingPage#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
