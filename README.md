@@ -11,4 +11,4 @@ Run the Tailwind CLI to compile the input.css during development. The output fil
 npm run watch
 To build once run...
 
-npm run build
+npm run buildgit a
